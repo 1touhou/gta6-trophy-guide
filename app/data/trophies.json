@@ -1,0 +1,1156 @@
+{
+ "game": "Grand Theft Auto VI",
+ "platform": "PlayStation 5",
+ "list": "the official 55 trophies, 2026-11-18",
+ "note": "Names, descriptions and grades are the official list as PlayStation publishes it (kit starter, cross-checked against the GamesFuze list). Hidden flags verified against the GamesFuze list on 2026-11-21: 27 visible, 28 hidden. Guides are this entry's own words.",
+ "trophies": [
+  {
+   "id": 1,
+   "name": "Vice Got a Price!",
+   "description": "Congratulations! You're a Leonida Legend.",
+   "grade": "platinum",
+   "hidden": false,
+   "kind": "completion",
+   "difficulty": 5,
+   "time": "~200 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Earn the other 54 trophies first — the Platinum unlocks automatically once the last one pops.",
+    "Work through this guide's roadmap in order, so nothing is left for a second playthrough.",
+    "End on A Long Road (100% completion) as your final trophy."
+   ],
+   "guide": "The Platinum is the reward for the other 54 trophies: there is no separate task of its own. Follow the roadmap in this guide — story first, then strangers, activities, crime and collectibles — and finish on 100% completion. Expect around 200 hours in total.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 2,
+   "name": "Just Like Paradise",
+   "description": "Complete Gone Fishing.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 1,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Start a new game and play the opening mission, Gone Fishing, through to its end.",
+    "The trophy pops when the mission completes — it cannot be missed."
+   ],
+   "guide": "The first trophy of the game: finish the opening mission, Gone Fishing. It is a story trophy, so it unlocks naturally as you play the opening.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 3,
+   "name": "Paradise Lost",
+   "description": "Complete Chapter 1.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 1,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play through every story mission in Chapter 1.",
+    "The trophy pops when the chapter ends — no extra task is needed."
+   ],
+   "guide": "Finish Chapter 1 in full. Every story mission in the chapter counts toward it; there is nothing extra to do beyond playing the story.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 4,
+   "name": "T**s Ass Drug Money",
+   "description": "Complete Chapter 2.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 1,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play through every story mission in Chapter 2.",
+    "The trophy pops when the chapter ends."
+   ],
+   "guide": "Finish Chapter 2 in full. Like the other chapter trophies, it unlocks by playing the story to the end of the chapter.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 5,
+   "name": "Vice City, Baby!",
+   "description": "Complete Chapter 3.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 1,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play through every story mission in Chapter 3.",
+    "The trophy pops when the chapter ends."
+   ],
+   "guide": "Finish Chapter 3 in full. It unlocks by playing the story to the end of the chapter, with no extra requirement.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 6,
+   "name": "Top Of The World, Ma",
+   "description": "Complete Chapter 4.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 1,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play through every story mission in Chapter 4.",
+    "The trophy pops when the chapter ends."
+   ],
+   "guide": "Finish Chapter 4 in full. It unlocks by playing the story to the end of the chapter, with no extra requirement.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 7,
+   "name": "You Gotta Know When to Get Off",
+   "description": "Complete the final mission.",
+   "grade": "gold",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 2,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play the story through to its final mission.",
+    "Complete the final mission — the trophy pops at its end."
+   ],
+   "guide": "Complete the final mission of the story. It pops at the end of the last mission, with no separate task. Beebom and CULTR describe this final stretch as Chapter 5.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 8,
+   "name": "Trust",
+   "description": "Complete Breakfast Run.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 1,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play the story mission Breakfast Run through to its end.",
+    "The trophy pops when the mission completes."
+   ],
+   "guide": "Complete the mission Breakfast Run. It is a story-mission trophy, so it unlocks by playing the mission to its end.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 9,
+   "name": "Break the Bank",
+   "description": "Complete The Cartel Heist.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 2,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play the story mission The Cartel Heist through to its end.",
+    "The trophy pops when the mission completes."
+   ],
+   "guide": "Complete the mission The Cartel Heist. It is a story-mission trophy, so it unlocks by playing the mission to its end.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 10,
+   "name": "Family Matters",
+   "description": "Complete Child's Play.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 1,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play the story mission Child's Play through to its end.",
+    "The trophy pops when the mission completes."
+   ],
+   "guide": "Complete the mission Child's Play. It is a story-mission trophy, so it unlocks by playing the mission to its end.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  }
+,
+  {
+   "id": 11,
+   "name": "DWNFALL",
+   "description": "Complete Headliners.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 2,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play the story mission Headliners through to its end.",
+    "The trophy pops when the mission completes."
+   ],
+   "guide": "Complete the mission Headliners. It is a story-mission trophy, so it unlocks by playing the mission to its end.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 12,
+   "name": "Hi-Jacked",
+   "description": "Complete VCIA Takedown.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 2,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play the story mission VCIA Takedown through to its end.",
+    "The trophy pops when the mission completes."
+   ],
+   "guide": "Complete the mission VCIA Takedown. It is a story-mission trophy, so it unlocks by playing the mission to its end.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 13,
+   "name": "Snow Storm",
+   "description": "Complete Operation Savage Glory.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "story",
+   "difficulty": 2,
+   "time": "Story",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Play the story mission Operation Savage Glory through to its end.",
+    "The trophy pops when the mission completes."
+   ],
+   "guide": "Complete the mission Operation Savage Glory. It is a story-mission trophy, so it unlocks by playing the mission to its end.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 14,
+   "name": "A Long Road",
+   "description": "Attain 100% Completion.",
+   "grade": "gold",
+   "hidden": false,
+   "kind": "completion",
+   "difficulty": 5,
+   "time": "~200 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Open the 100% checklist in the stats menu and work through every requirement: story, strangers, activities, collectibles and side tasks.",
+    "Clear one group at a time, using this guide's roadmap stages as the order.",
+    "The trophy pops the moment the checklist hits 100%."
+   ],
+   "guide": "The hardest trophy in the game, and the last one most players earn: reach 100% completion. GamesFuze names it the hardest trophy alongside The Shootist. It is the longest grind in the game, so save it for the end and clear it group by group.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 15,
+   "name": "Cunning Stunts",
+   "description": "Complete 250 Stunts.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 3,
+   "time": "~8 h",
+   "count": 250,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Pull off stunts while driving — jumps, near misses, drifts and airtime all count.",
+    "Chain them on open stretches of highway and around Vice City's jumps.",
+    "The counter runs across the whole game, so check the stats menu to see how far along you are."
+   ],
+   "guide": "Complete 250 stunts. Any stunt counts — jumps, drifts, near misses and airtime — and they add up across the entire playthrough, so this finishes naturally if you drive boldly throughout the game.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 16,
+   "name": "Master of None",
+   "description": "Try each type of activity once.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 2,
+   "time": "~4 h",
+   "count": 9,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Try each of the 9 activity types once — the game's activities menu lists them.",
+    "Fishing, bowling, the shooting range, drone races and the rest: one go at each is enough.",
+    "The trophy pops after the ninth type."
+   ],
+   "guide": "Try each type of activity once — there are 9 in total. One attempt at each is enough; you do not need to win or finish any of them.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 17,
+   "name": "The Shootist",
+   "description": "Earn a gold medal in all Shooting Range challenges.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 5,
+   "time": "~15 h",
+   "count": 42,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Visit the Shooting Range and work through all 42 challenges.",
+    "Gold medals need accuracy and speed — use the weapon each challenge favours and learn the target patterns.",
+    "Leave this for after the story, when your aim and weapon handling are practised."
+   ],
+   "guide": "Earn a gold medal in all 42 Shooting Range challenges. GamesFuze calls this one of the two hardest trophies, with A Long Road. Gold needs both accuracy and speed, so practise each challenge's pattern rather than rushing it.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 18,
+   "name": "Top Fun",
+   "description": "Win a Top Fun Drone Race at every location.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 3,
+   "time": "~6 h",
+   "count": 14,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Find the Top Fun drone race at each of its 14 locations around Leonida.",
+    "Win each race — learn the gates on a practice run first.",
+    "The trophy pops after the 14th win."
+   ],
+   "guide": "Win a Top Fun drone race at every location — 14 in total. Each race is a short course through gates; a practice run to learn the route makes the win much easier.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 19,
+   "name": "Earn Cash, Not Kudos",
+   "description": "Win 20 different races.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 3,
+   "time": "~6 h",
+   "count": 20,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Enter races around Leonida — street, off-road and water races all count.",
+    "Win 20 different races; repeats of the same race do not add to the count.",
+    "Vary the race type and the vehicle class to cover new ones quickly."
+   ],
+   "guide": "Win 20 different races. Only first wins on new races count, so rotate through race types and locations instead of replaying one favourite.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 20,
+   "name": "Baited My Tackle",
+   "description": "Beat Cal in a fishing challenge.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 2,
+   "time": "~2 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Take on a fishing challenge against Cal.",
+    "Match his catch or beat his score — steady reeling beats fast reeling.",
+    "The trophy pops when you win the challenge."
+   ],
+   "guide": "Beat Cal in a fishing challenge. Fishing challenges are won by steady reeling and not letting the line snap; take your time rather than rushing the reel.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  }
+,
+  {
+   "id": 21,
+   "name": "Stick Fiddler",
+   "description": "Complete an arcade game.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 1,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Find an arcade machine in Vice City and start any game.",
+    "Play it through to the end of a round — finishing one game is enough.",
+    "The trophy pops when the game ends."
+   ],
+   "guide": "Complete an arcade game. Any arcade machine in Vice City will do, and one finished game — win or lose — is enough.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 22,
+   "name": "Road to Rehabilitation",
+   "description": "Complete the final mission for Andy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "missable",
+   "difficulty": 2,
+   "time": "~3 h",
+   "count": null,
+   "missable": true,
+   "missable_note": "Time-sensitive: stranger mission chains close as the story advances (TechWiser, via EGamers). Finish Andy's strand when it appears.",
+   "steps": [
+    "Pick up Andy's stranger strand when it appears and follow it to its last mission.",
+    "Finish the strand before the story moves past its window — stranger chains close as chapters advance.",
+    "The trophy pops after Andy's final mission."
+   ],
+   "guide": "Complete the final mission for Andy. Andy's strand is one of five stranger chains with a window tied to story progress, so do it when it appears rather than leaving it for the endgame.",
+   "source": "EGamers trophy list",
+   "source_url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+  },
+  {
+   "id": 23,
+   "name": "This Was No Boat Accident",
+   "description": "Complete the final mission for Kenton.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "missable",
+   "difficulty": 2,
+   "time": "~3 h",
+   "count": null,
+   "missable": true,
+   "missable_note": "Time-sensitive: stranger mission chains close as the story advances (TechWiser, via EGamers). Finish Kenton's strand when it appears.",
+   "steps": [
+    "Pick up Kenton's stranger strand when it appears and follow it to its last mission.",
+    "Finish the strand before the story moves past its window.",
+    "The trophy pops after Kenton's final mission."
+   ],
+   "guide": "Complete the final mission for Kenton. Kenton's strand is one of five stranger chains with a window tied to story progress, so do it when it appears rather than leaving it for the endgame.",
+   "source": "EGamers trophy list",
+   "source_url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+  },
+  {
+   "id": 24,
+   "name": "The Lone Rider",
+   "description": "Complete the final mission for Billy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "missable",
+   "difficulty": 2,
+   "time": "~3 h",
+   "count": null,
+   "missable": true,
+   "missable_note": "Time-sensitive: stranger mission chains close as the story advances (TechWiser, via EGamers). Finish Billy's strand when it appears.",
+   "steps": [
+    "Pick up Billy's stranger strand when it appears and follow it to its last mission.",
+    "Finish the strand before the story moves past its window.",
+    "The trophy pops after Billy's final mission."
+   ],
+   "guide": "Complete the final mission for Billy. Billy's strand is one of five stranger chains with a window tied to story progress, so do it when it appears rather than leaving it for the endgame.",
+   "source": "EGamers trophy list",
+   "source_url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+  },
+  {
+   "id": 25,
+   "name": "Strangers & Freaks",
+   "description": "Complete 8 mission strands for strangers across the state of Leonida.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 3,
+   "time": "~15 h",
+   "count": 8,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Find stranger mission strands across Leonida — they appear as encounters on the map.",
+    "Complete 8 full strands; each strand is several missions.",
+    "Track them in the roadmap tab — the eight strands are listed there."
+   ],
+   "guide": "Complete 8 mission strands for strangers across the state of Leonida. Each strand is a short chain of missions; finish eight of them and the Silver pops. Note that five of the strands have windows tied to story progress, so do them as they appear.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 26,
+   "name": "Supply & Demand",
+   "description": "Complete the final mission for Randy.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "missable",
+   "difficulty": 2,
+   "time": "~3 h",
+   "count": null,
+   "missable": true,
+   "missable_note": "Time-sensitive: stranger mission chains close as the story advances (TechWiser, via EGamers). Finish Randy's strand when it appears.",
+   "steps": [
+    "Pick up Randy's stranger strand when it appears and follow it to its last mission.",
+    "Finish the strand before the story moves past its window.",
+    "The trophy pops after Randy's final mission."
+   ],
+   "guide": "Complete the final mission for Randy. Randy's strand is one of five stranger chains with a window tied to story progress, so do it when it appears rather than leaving it for the endgame.",
+   "source": "EGamers trophy list",
+   "source_url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+  },
+  {
+   "id": 27,
+   "name": "Spin On This!",
+   "description": "Complete the final mission for Tyrone.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "missable",
+   "difficulty": 2,
+   "time": "~3 h",
+   "count": null,
+   "missable": true,
+   "missable_note": "Time-sensitive: stranger mission chains close as the story advances (TechWiser, via EGamers). Finish Tyrone's strand when it appears.",
+   "steps": [
+    "Pick up Tyrone's stranger strand when it appears and follow it to its last mission.",
+    "Finish the strand before the story moves past its window.",
+    "The trophy pops after Tyrone's final mission."
+   ],
+   "guide": "Complete the final mission for Tyrone. Tyrone's strand is one of five stranger chains with a window tied to story progress, so do it when it appears rather than leaving it for the endgame.",
+   "source": "EGamers trophy list",
+   "source_url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+  },
+  {
+   "id": 28,
+   "name": "Positive Mental Attitude",
+   "description": "Meditate at every spot across Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "missable",
+   "difficulty": 3,
+   "time": "~6 h",
+   "count": 18,
+   "missable": true,
+   "missable_note": "Possibly missable: the meditation spot at Jason's house is only available in Chapter 1 (GTABase and PowerPyx, as reported by EGamers). Do it as soon as it appears.",
+   "steps": [
+    "Find meditation spots across Leonida — there are 18 in total.",
+    "Meditate at each one. The first spot is at Jason's house and is only open in Chapter 1, so do it early.",
+    "Keep a checklist — the tracker in this guide lists the count."
+   ],
+   "guide": "Meditate at every spot across Leonida — 18 spots. This is the one trophy the guides flag as possibly missable: the spot at Jason's house is only open in Chapter 1, so meditate there before the story moves on.",
+   "source": "EGamers trophy list",
+   "source_url": "https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/"
+  },
+  {
+   "id": 29,
+   "name": "Fair Game",
+   "description": "Hunt a unique animal for Bret.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "difficulty": 2,
+   "time": "~2 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Pick up Bret's stranger strand and follow it to the hunt.",
+    "Track the unique animal Bret asks for — take it down with one clean shot.",
+    "The trophy pops when the hunt is complete."
+   ],
+   "guide": "Hunt a unique animal for Bret. Follow Bret's stranger strand to the hunt, then track the animal down and take it.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 30,
+   "name": "Don’t Touch My Deck",
+   "description": "Complete 3 Collectible Card sets.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "difficulty": 3,
+   "time": "~10 h",
+   "count": 3,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Collect cards around Leonida — they are tucked into shops, hideouts and side locations.",
+    "Complete 3 full card sets; the tracker in this guide counts the sets.",
+    "Keep collecting as you roam — cards turn up wherever you explore."
+   ],
+   "guide": "Complete 3 Collectible Card sets. Cards are scattered across Leonida; collect full sets, and use the checklist here to track how many sets are done.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  }
+,
+  {
+   "id": 31,
+   "name": "You WAiNKer!",
+   "description": "WAiNK It at 100 locations.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "collectibles",
+   "difficulty": 3,
+   "time": "~8 h",
+   "count": 100,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Open the WAiNK app on the in-game phone at 100 different locations.",
+    "The app scans each spot — move on once a location registers.",
+    "City landmarks, beaches and countryside spots all count."
+   ],
+   "guide": "Use the WAiNK app at 100 locations. Open it wherever you go and let it scan; the counter climbs as you travel, so this finishes naturally if you scan often.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 32,
+   "name": "One Last Thing",
+   "description": "Complete 50 Challenges.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "activities",
+   "difficulty": 3,
+   "time": "~12 h",
+   "count": 50,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Open the Challenges menu and work through its list.",
+    "Complete any 50 challenges — combat, driving, exploration and side tasks all count.",
+    "Pick the easiest ones first; the counter tracks your progress."
+   ],
+   "guide": "Complete 50 Challenges. Any 50 from the Challenges menu count, so start with the quick ones — driving, exploration and combat — and the total builds up over the game.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 33,
+   "name": "Hot Together",
+   "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~2 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Raise a 4-star Wanted Level while your partner is with you.",
+    "Lose the cops — break line of sight, swap cars and hide until the stars clear.",
+    "The trophy pops when the Wanted Level clears with your partner beside you."
+   ],
+   "guide": "Lose a 4-star Wanted Level with your partner and escape the heat. Get the cops to 4 stars, then break line of sight and hide until the heat dies down.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 34,
+   "name": "Retail Therapy",
+   "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 3,
+   "time": "~3 h",
+   "count": 3,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "With your partner, rob a shop and get away clean.",
+    "Rob two more shops back-to-back without losing your Wanted Level in between.",
+    "Plan the route first — three shops close together make it far easier."
+   ],
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level. Pick three shops close together, hit them in sequence and keep moving.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 35,
+   "name": "Whip It Good",
+   "description": "Discover 100 vehicles.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "difficulty": 3,
+   "time": "~8 h",
+   "count": 100,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Drive every vehicle type you find — each new type registers once.",
+    "Check the stats menu to see which types you still need.",
+    "Rare types hide in specific areas, so sweep garages, docks and the countryside."
+   ],
+   "guide": "Discover 100 vehicles. Every new vehicle type you drive registers once, so hop into anything unfamiliar — the counter rewards variety, not repeats.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 36,
+   "name": "Gunslinger",
+   "description": "Take down 5 enemies in a single use of Combat Focus.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~1 h",
+   "count": 5,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Trigger Combat Focus during a firefight.",
+    "Take down 5 enemies before the focus ends — group them first with cover fire.",
+    "The trophy pops on the fifth takedown in one use."
+   ],
+   "guide": "Take down 5 enemies in a single use of Combat Focus. Wait until enemies cluster, trigger Combat Focus and chain the takedowns before it runs out.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 37,
+   "name": "Catch Me If You Can",
+   "description": "Make an unscheduled departure at VCIA.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Head to VCIA, the Vice City airport.",
+    "Board a plane without a ticket — an unscheduled departure.",
+    "The trophy pops once you are airborne."
+   ],
+   "guide": "Make an unscheduled departure at VCIA. Get to the airport, board a plane you were never booked on and take off.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 38,
+   "name": "Challenging Tank",
+   "description": "Kinda hot in these Rhinos.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "difficulty": 3,
+   "time": "~2 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Find a Rhino tank — it appears at high Wanted Levels and in military areas.",
+    "Get inside one and cause chaos, or take one on.",
+    "The trophy pops once the Rhino encounter plays out."
+   ],
+   "guide": "A secret involving a Rhino tank. Rhinos appear at high Wanted Levels and around military sites — get into one and the trophy follows.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 39,
+   "name": "Sneakthief",
+   "description": "Rob a jewelry store without being detected.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~2 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Pick a jewelry store and case it first — learn the guard patrols and camera spots.",
+    "Rob it without being detected: stay out of sight and move quietly.",
+    "The trophy pops when you escape unseen."
+   ],
+   "guide": "Rob a jewelry store without being detected. Case the store, learn the patrols, then move quietly — being spotted at any point voids the attempt.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 40,
+   "name": "Maximum Withdrawal",
+   "description": "Rob 5 Bank Vaults and escape.",
+   "grade": "silver",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 3,
+   "time": "~6 h",
+   "count": 5,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Hit bank vaults across Leonida — five in total.",
+    "Rob each vault and escape the police response.",
+    "Plan the getaway before you go in; the escape is the hard part."
+   ],
+   "guide": "Rob 5 Bank Vaults and escape. Five vaults, five getaways — plan the escape route first, because the police response is the part that fails most attempts.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  }
+,
+  {
+   "id": 41,
+   "name": "A Classic Blitz Play",
+   "description": "Rob an Armored Truck and escape.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~2 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Find an armored truck on the road and stop it.",
+    "Rob the truck, then lose the police.",
+    "The trophy pops once you escape."
+   ],
+   "guide": "Rob an Armored Truck and escape. Stop the truck, take the cash and break away before the police box you in.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 42,
+   "name": "The Goodtime State",
+   "description": "Explore all of Leonida.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "difficulty": 3,
+   "time": "~10 h",
+   "count": 52,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Explore every part of Leonida — 52 areas in total.",
+    "The map fills in as you visit each area; check the stats menu for gaps.",
+    "Sweep the countryside and the islands last, as they are the easiest to miss."
+   ],
+   "guide": "Explore all of Leonida — 52 areas. Visit every district, beach and back road; the map shades in as you go, and the trophy pops when the last area is found.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 43,
+   "name": "Pest Control",
+   "description": "Rob an Illegal Operation belonging to each gang.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 3,
+   "time": "~6 h",
+   "count": 9,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Find an Illegal Operation belonging to each of the 9 gangs.",
+    "Rob one operation per gang — each gang's turf is marked on the map.",
+    "The trophy pops after the ninth gang."
+   ],
+   "guide": "Rob an Illegal Operation belonging to each gang — 9 gangs. One robbery per gang's turf is enough; work through the map gang by gang.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 44,
+   "name": "In The Beginning…",
+   "description": "Enjoy a cocktail with a view on Ocean Beach.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "difficulty": 1,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Go to Ocean Beach and find a bar with a view.",
+    "Order a cocktail and enjoy it with the view.",
+    "The trophy pops once the drink is served."
+   ],
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. Find a beachfront bar, order a cocktail and take in the view — the simplest trophy in the game.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 45,
+   "name": "Capital Offense",
+   "description": "Smash your way out of a vehicle showroom in classic style.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Enter a vehicle showroom.",
+    "Smash your way out in classic style — through the glass, not the door.",
+    "The trophy pops once you are out."
+   ],
+   "guide": "Smash your way out of a vehicle showroom in classic style. Drive in, then leave through the showroom glass — the way the classics did it.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 46,
+   "name": "Let’s Go Bowling",
+   "description": "Follow-through at the Kolt & Associates' bowling alley.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "difficulty": 1,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Visit the bowling alley run by Kolt & Associates.",
+    "Play a game through — follow-through is the point.",
+    "The trophy pops at the end of the game."
+   ],
+   "guide": "Follow-through at the Kolt & Associates' bowling alley. Play a full game of bowling; finishing it is what counts.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 47,
+   "name": "Personal Best",
+   "description": "A partnership with mass appeal.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~2 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Build your partnership's profile — the trophy is about your duo's reputation.",
+    "Complete partner activities together until the moment triggers.",
+    "The trophy pops on a partnership milestone."
+   ],
+   "guide": "A partnership with mass appeal. Play the partner storyline and activities together; the trophy marks a milestone in your duo's reputation.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 48,
+   "name": "Actions Speak Louder",
+   "description": "Choices made (for better or worse).",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "difficulty": 2,
+   "time": "~3 h",
+   "count": 500,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Make choices throughout the story — the game tracks them.",
+    "Some choices count more than others; keep playing and deciding.",
+    "The trophy pops once enough choices are recorded (PSN tracks a count toward 500)."
+   ],
+   "guide": "Choices made, for better or worse. Keep making story choices — the game tracks them, and the trophy pops once enough have been recorded.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 49,
+   "name": "Bad Luck, I Guess",
+   "description": "Second time's the charm.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "difficulty": 1,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Fail at something, then try again.",
+    "Succeed on the second attempt.",
+    "The trophy pops on the successful retry."
+   ],
+   "guide": "Second time's the charm. Fail a task, then succeed on the retry — the trophy is for the comeback, not the first try.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 50,
+   "name": "The Truth Is Out There",
+   "description": "What the hell just happened?",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "crime",
+   "difficulty": 1,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Wander Leonida and keep an eye out for something strange.",
+    "Weird encounters and odd sights trigger it.",
+    "The trophy pops when you witness the strange event."
+   ],
+   "guide": "What the hell just happened? Somewhere in Leonida something strange is waiting to be seen — wander, look around and the trophy finds you.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  }
+,
+  {
+   "id": 51,
+   "name": "Ten Pin",
+   "description": "Bowl 'em over with a melee drive-by.",
+   "grade": "bronze",
+   "hidden": true,
+   "kind": "activities",
+   "difficulty": 2,
+   "time": "~1 h",
+   "count": null,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Get into a vehicle and build up speed.",
+    "From the moving vehicle, land a melee hit on a target as you drive past.",
+    "The trophy pops on the hit."
+   ],
+   "guide": "Bowl 'em over with a melee drive-by. From a moving vehicle, land a melee hit on a target — the trophy is for the drive-by, not the crash.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 52,
+   "name": "Dime on the Dollar",
+   "description": "Earn $250,000 laundering Marked Bills through your contacts.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 3,
+   "time": "~8 h",
+   "count": 250000,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Earn Marked Bills through heists and crime jobs.",
+    "Launder them through your contacts — the laundering menu tracks the total.",
+    "Keep going until $250,000 is laundered."
+   ],
+   "guide": "Earn $250,000 laundering Marked Bills through your contacts. Marked Bills come from crime jobs; launder them steadily through your contacts until the total hits $250,000.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 53,
+   "name": "Treat Yo Self",
+   "description": "Spend $100,000 across all shops.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "crime",
+   "difficulty": 3,
+   "time": "~6 h",
+   "count": 100000,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Spend money across all shops — clothes, weapons, food and more.",
+    "The total is cumulative across every shop.",
+    "The trophy pops at $100,000 spent."
+   ],
+   "guide": "Spend $100,000 across all shops. Every purchase counts toward the total, so this builds up naturally as you gear up — or burn through cash on clothes and cars.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 54,
+   "name": "Little Boxes",
+   "description": "Purchase all garage properties.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "difficulty": 3,
+   "time": "~6 h",
+   "count": 8,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Buy garage properties around Leonida — 8 in total.",
+    "Each garage costs money, so save up between purchases.",
+    "The trophy pops after the eighth garage."
+   ],
+   "guide": "Purchase all garage properties — 8 in total. Save up and buy each garage as you go; the eighth purchase pops the trophy.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  },
+  {
+   "id": 55,
+   "name": "On the Spot",
+   "description": "Register 10 vehicles to the Scooter Bros app.",
+   "grade": "bronze",
+   "hidden": false,
+   "kind": "collectibles",
+   "difficulty": 2,
+   "time": "~3 h",
+   "count": 10,
+   "missable": false,
+   "missable_note": null,
+   "steps": [
+    "Open the Scooter Bros app on the in-game phone.",
+    "Register vehicles to the app — 10 in total.",
+    "Any vehicles you own or find count."
+   ],
+   "guide": "Register 10 vehicles to the Scooter Bros app. Open the app and register ten vehicles — owned or found, either counts.",
+   "source": "GamesFuze trophy list",
+   "source_url": "https://gamesfuze.com/gta-6-wiki/achievements/"
+  }
+ ]
+}
