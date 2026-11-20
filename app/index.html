@@ -1,0 +1,83 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Leonida Trophy Guide — GTA VI · PS5</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header class="hero">
+  <p class="eyebrow">Grand Theft Auto VI &middot; PlayStation 5 &middot; Unofficial fan guide</p>
+  <h1>Leonida Trophy Guide</h1>
+  <p class="tagline">Every one of the 55 trophies, with a guide, a roadmap to the Platinum, and a checklist that saves your progress.</p>
+  <div class="progress-wrap">
+    <div class="progress-numbers"><span id="progressText">0 of 55 earned</span><span id="progressPoints">0 points</span></div>
+    <div class="progress-bar" role="progressbar" aria-label="Trophies earned"><div id="progressFill" class="progress-fill"></div></div>
+    <p id="progressGrades" class="progress-grades"></p>
+  </div>
+</header>
+
+<section id="missableBanner" class="missable-banner" hidden>
+  <strong>&#9888; 6 trophies can be missed.</strong>
+  <span id="missableNames"></span>
+  <button id="missableJump" type="button">Show them</button>
+</section>
+
+<nav class="tabs" aria-label="Guide sections">
+  <button id="tabChecklist" type="button" class="tab active" aria-selected="true">Checklist</button>
+  <button id="tabRoadmap" type="button" class="tab" aria-selected="false">Roadmap to the Platinum</button>
+</nav>
+
+<main id="checklistView">
+  <div class="controls">
+    <label class="search">Search <input id="search" type="search" placeholder="Trophy name or keyword&hellip;" autocomplete="off"></label>
+    <label>Kind
+      <select id="kindFilter">
+        <option value="all">All kinds</option>
+        <option value="story">Story</option>
+        <option value="missable">Missable</option>
+        <option value="collectibles">Collectibles</option>
+        <option value="activities">Activities</option>
+        <option value="crime">Crime</option>
+        <option value="completion">Completion</option>
+      </select>
+    </label>
+    <label>Grade
+      <select id="gradeFilter">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+    </label>
+    <label class="check"><input id="hideEarned" type="checkbox"> Hide earned</label>
+    <label class="check"><input id="spoilerToggle" type="checkbox" checked> Spoiler-safe: hide story trophies until earned</label>
+  </div>
+  <div class="toolbar">
+    <button id="exportBtn" type="button">Export progress</button>
+    <label class="import-btn">Import progress <input id="importFile" type="file" accept="application/json"></label>
+    <button id="resetBtn" type="button">Reset progress</button>
+    <span id="resultCount" class="result-count"></span>
+  </div>
+  <p id="emptyNote" class="empty-note" hidden>No trophies match these filters.</p>
+  <section id="detailPanel" class="detail" hidden aria-label="Trophy guide"></section>
+  <div id="cards" class="cards"></div>
+</main>
+
+<main id="roadmapView" hidden>
+  <p class="roadmap-intro">Six stages, in order, to the Platinum. Stages cover all 55 trophies exactly once — nothing is left for a second playthrough.</p>
+  <p class="roadmap-hours" id="roadmapHours"></p>
+  <div id="stages" class="stages"></div>
+  <p class="cheats-warning" id="cheatsWarning"></p>
+  <p class="save-tip" id="saveTip"></p>
+</main>
+
+<footer>
+  <p>Sources: <a href="https://gamesfuze.com/gta-6-wiki/achievements/">GamesFuze trophy list</a> &middot; <a href="https://egamers.io/gta-6-trophy-list-all-55-trophies-and-achievements-plus-the-hardest-ones/">EGamers trophy list</a> &middot; <a href="https://www.planetgta6.com/en/gta-6-trophies/">Planet GTA 6 trophy list</a>. Trophy names, descriptions and grades are the official list as PlayStation publishes it; every guide is written in this entry's own words and cites its sources beside it. Lists were last cross-checked on 21 November 2026, the day of the game's launch — if the launch-day list differs, the guide will need updating.</p>
+  <p>Unofficial fan guide. Not affiliated with Rockstar Games, Take-Two Interactive, Sony Interactive Entertainment or PlayStation. No Rockstar logo, artwork, box art or game screenshot is used anywhere in this guide.</p>
+</footer>
+<script type="module" src="app.js"></script>
+</body>
+</html>
