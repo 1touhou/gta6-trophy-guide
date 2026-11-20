@@ -1,8 +1,8 @@
 # Leonida Trophy Guide — GTA VI
 
-[![make.fun gta6-trophy-guide-01](https://make.fun/badge/competition/gta6-trophy-guide-01)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![rank 0 entries · closes in 24h](https://make.fun/badge/competition/gta6-trophy-guide-01/entries)](https://make.fun/bounty/gta6-trophy-guide-01)
-[![pool $250 USDC](https://make.fun/badge/competition/gta6-trophy-guide-01/prize)](https://make.fun/bounty/gta6-trophy-guide-01)
+[![make.fun · gta6-trophy-guide-01](https://make.fun/badge/gta6-trophy-guide-01.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![rank](https://make.fun/badge/gta6-trophy-guide-01/1touhou/gta6-trophy-guide/rank.svg)](https://make.fun/bounty/gta6-trophy-guide-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
+[![reward](https://make.fun/badge/gta6-trophy-guide-01/1touhou/gta6-trophy-guide/reward.svg)](https://make.fun/bounty/gta6-trophy-guide-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-trophy-guide-01)
 
 An offline guide and tracker for all 55 PlayStation 5 trophies of Grand
 Theft Auto VI, built for make.fun's **gta6-trophy-guide-01** bounty ($250
